@@ -19,7 +19,7 @@ Estou dando meus primeiros passos no desenvolvimento, explorando **C, HTML, CSS,
 
 ### 🤖 Linguagens e tecnologias
 
-Tecnologias que estou conhecendo e praticando nos meus estudos:
+Tecnologias que estou conhecendo e praticando:
 
 <p align="left">
   <img alt="C" title="C" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
@@ -37,10 +37,10 @@ Tecnologias que estou conhecendo e praticando nos meus estudos:
 
 ### 🌱 Meu foco agora
 
-- 🧠 Desenvolver minha lógica de programação e aprender a resolver problemas.
+- 🧠 Desenvolver melhor minha lógica de programação e aprender a resolver problemas.
 - 🌐 Explorar o desenvolvimento web com HTML, CSS e JavaScript.
-- 🛠️ Praticar C, PHP e Python com exercícios e pequenos projetos.
-- 🎓 Aplicar os conhecimentos da faculdade e construir uma base sólida em desenvolvimento.
+- 🛠️ Praticar C, PHP e Python.
+- 🎓 Aplicar os conhecimentos da faculdade.
 
 ### 📊 Estatísticas
 
@@ -53,4 +53,3 @@ Tecnologias que estou conhecendo e praticando nos meus estudos:
 
 ---
 
-💭 *Cada desafio é uma oportunidade de aprender algo novo.*
